@@ -1,4 +1,4 @@
-# Entanglement Sudden Death in Random Quantum Circuits
+# Entanglement Sudden Death in Interacting Quantum Circuits
 
 ![Poster](assets/poster.png)
 
