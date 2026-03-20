@@ -22,3 +22,13 @@ jupyter notebook
 - Simulation of random Clifford circuits with noise
 - Computation of entanglement using logarithmic negativity
 - Analysis of entanglement sudden death
+
+## Examples
+
+### Depolarizing channels only
+
+![Output1](assets/output1.png)
+
+### Clifford circuit with depolarizing noise
+
+![Output2](assets/output2.png)
